@@ -14,6 +14,7 @@ public class Solution {
         return false;
     }
 
+
     public static void main(String[] args) {
         // Example 1
         int[] nums = new int[]{1, 2, 3, 1};
