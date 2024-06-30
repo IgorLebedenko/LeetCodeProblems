@@ -1,4 +1,4 @@
-package com.github.ilebedenko.array._169_majority_element;
+package com.github.ilebedenko.hash._169_majority_element;
 
 import java.util.HashMap;
 import java.util.Map;
